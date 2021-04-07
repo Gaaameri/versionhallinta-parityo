@@ -1,4 +1,3 @@
 # parityo
 Simppeli www-sivusto versionhallinnan kanssa
-Iivari Vitikainen
-Samuel Ääri
+Iivari Vitikainen ja Samuel Ääri
